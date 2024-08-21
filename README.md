@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 letter8884@gmail.com
 
 ### Languages and Tool
+- CSS
+- HTML
+- jQuery
+- JavaScript
